@@ -26,3 +26,5 @@ And then run the game as normal:
 SPACEI~1.EXE
 ```
 Make sure all the .BMP images are in the same folder.
+    
+![The project](Space_Invaders.png)
